@@ -1,4 +1,4 @@
-﻿name: Cloud Infrastructure CI
+name: Cloud Infrastructure CI
 
 on:
   push:
