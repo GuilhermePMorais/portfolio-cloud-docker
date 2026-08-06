@@ -1,13 +1,10 @@
-Aqui está um modelo de README profissional e de nível Sênior completo para você copiar, colar e substituir o conteúdo atual no GitHub. Ele destaca todas as ferramentas avançadas que você implementou (Docker, Terraform, CI/CD, Automação e Segurança):
-
-Markdown
-# 🚀 Portfolio Cloud & DevOps: Arquitetura Multi-Container com IaC e CI/CD
+#  Portfolio Cloud & DevOps: Arquitetura Multi-Container com IaC e CI/CD
 
 Este repositório demonstra a implementação de um ambiente de infraestrutura moderna e segura, aplicando conceitos avançados de **Docker**, **Orquestração**, **Infraestrutura como Código (IaC)** e **Automação de CI/CD**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+##  Tecnologias e Ferramentas Utilizadas
 
 * **Orquestração & Containers:** Docker & Docker Compose (com *Health Checks* ativos).
 * **Serviços:** Nginx (Alpine) como Servidor Web e PostgreSQL (15-Alpine) como Banco de Dados.
@@ -18,7 +15,7 @@ Este repositório demonstra a implementação de um ambiente de infraestrutura m
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 portfolio-cloud-docker/
